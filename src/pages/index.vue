@@ -22,9 +22,11 @@ export default {
 }
 </script>
 <style scoped>
+.container{
+  padding: 2rem 0;
+}
 .page-list{
   text-align: center;
-  width: 60%;
   margin: 0 auto;
 }
 </style>

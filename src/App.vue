@@ -31,6 +31,9 @@ export default {
 .container{
   padding: 2rem 4rem;
 }
+td {
+  padding: 0.25rem !important;
+}
 .fade-enter-active, .fade-leave-active {
     transition: opacity .15s;
   }

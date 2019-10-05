@@ -59,11 +59,11 @@ export default {
 };
 </script>
 
-<style scoped>
+<style>
 .auth-container {
   margin: 0 auto 2rem;
-  width: 30%;
-  min-width: 350px;
+  width: 50%;
+  min-width: 250px;
 }
 .myform {
   position: relative;
@@ -74,7 +74,7 @@ export default {
 }
 .mockUser-list{
   margin: 0 auto;
-  width: 60%;
+  width: 100%;
   text-align: center;
 }
 </style>
